@@ -1,0 +1,12 @@
+# What are Cloud Native Applications? 
+---
+### Microservice Design Patterns
+- Search for services
+- Edge Server
+- Reactive Microservices
+- Centralize configuration 
+- Centralize Log Analysis 
+- Distributed Tracking 
+- Circuit Breaker
+- Control Loop
+- Centralize Monitoring and Alerts
